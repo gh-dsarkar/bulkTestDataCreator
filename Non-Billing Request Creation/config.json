@@ -8,14 +8,14 @@
   },
   "lims":
   { "url": "https://lims-val.ghdna.io/ghlims/logon.jsp?sso=n",
-	"username": "dsarkar",
-	"password" : "Ventana@29gh"
+	"username": "limsusername",
+	"password" : "limspassword"
   },
   "VAL_DATABASE" :
   {
     "host" : "gh-val-db-lims.ghdna.io",
     "db" : "limsval",
-    "username" : "dsarkar",
-    "password": "Ventana@29gh"
+    "username" : "limsdbusername",
+    "password": "limsdbpassword"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "Billing_cred":
+  {
+	"url": "https://auth-val.k8s.ghdna.io",
+	"billingurl": "https://billing-val.k8s.ghdna.io",
+	"username":"superAdminUser@guardanthealth.com",
+	"password": "Password1234!"
+  },
+  "lims":
+  { "url": "https://lims-val.ghdna.io/ghlims/logon.jsp?sso=n",
+	"username": "dsarkar",
+	"password" : "Ventana@29gh"
+  },
+  "VAL_DATABASE" :
+  {
+    "host" : "gh-val-db-lims.ghdna.io",
+    "db" : "limsval",
+    "username" : "dsarkar",
+    "password": "Ventana@29gh"
+  }
+}
